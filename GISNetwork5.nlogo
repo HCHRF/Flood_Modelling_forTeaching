@@ -198,11 +198,11 @@ NIL
 0.0
 10.0
 true
-false
+true
 "" ""
 PENS
-"default" 1.0 0 -5298144 true "" "plot count turtles with [ mood < 0 ]"
-"pen-1" 1.0 0 -12087248 true "" "plot count turtles with [ mood >= 0 ]"
+"Agents with bad mood" 1.0 0 -5298144 true "" "plot count turtles with [ mood < 0 ]"
+"Agents with good mood" 1.0 0 -12087248 true "" "plot count turtles with [ mood >= 0 ]"
 
 BUTTON
 33
@@ -563,7 +563,7 @@ false
 Polygon -7500403 true true 270 75 225 30 30 225 75 270
 Polygon -7500403 true true 30 75 75 30 270 225 225 270
 @#$#@#$#@
-NetLogo 6.0.2
+NetLogo 6.2.0
 @#$#@#$#@
 @#$#@#$#@
 @#$#@#$#@
